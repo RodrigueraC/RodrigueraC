@@ -1,7 +1,6 @@
 ### Eaii, seja bem vindo 👋
 
-- 🔭 Atualmente sou programador front-end e android dev
-- 🌱 Estudando linguagens de back-end
+- 🔭 Programador front-end
 - 📫 Contato: rodrigocarrard.pessoal@gmail.com
 
 
