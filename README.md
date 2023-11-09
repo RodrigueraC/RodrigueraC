@@ -1,6 +1,6 @@
 ### Eaii, seja bem vindo 👋
 
-- 🔭 Programador front-end
+- 🔭 Programador front-end e Back-end
 - 📫 Contato: rodrigocarrard.pessoal@gmail.com
 
 
